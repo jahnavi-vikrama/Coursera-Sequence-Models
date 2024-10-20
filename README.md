@@ -55,4 +55,4 @@ Fine-tuned a pre-trained transformer model for Named Entity Recognition.\
 Fine-tuned a pre-trained transformer model for Question Answering.\
 Implemented a QA model in TensorFlow and PyTorch.\
 Fine-tuned a pre-trained transformer model to a custom dataset.\
-Performed extractive Question Answering.\
+Performed extractive Question Answering.
