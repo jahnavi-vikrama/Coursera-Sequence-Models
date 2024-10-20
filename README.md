@@ -1,5 +1,7 @@
 # Sequence-Models
 
+## Certificate : https://coursera.org/share/7108222f531c8057d1a22a6bfca07aaf
+
 ## Week 1
 Defined notation for building sequence models.\
 Described the architecture of a basic RNN.\
